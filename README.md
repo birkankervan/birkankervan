@@ -41,7 +41,7 @@ I'm a dedicated and skilled Frontend Developer with a strong background in Compu
 
 - [Benzin Fiyatları](https://benzin-fiyatlari.com): A location-based gas price search engine.
 - [Mazot Fiyatları](https://mazot-fiyatlari.com): A location-based diesel price search engine.
-- [EPK-IPTV](https://ebk-iptv.online.com): An IPTV viewing platform with predefined lists.
+- [EPK-IPTV](https://ebk-iptv.online): An IPTV viewing platform with predefined lists.
 - [HTML to JSX Website](https://html-2-jsx.vercel.app): A tool for converting HTML to JSX.
 - [HTML to JSX Chrome Extension](https://chromewebstore.google.com/detail/html-to-jsx/gdafcihicjmhjjjkldfdccfbajneiake?authuser=0&hl=tr): A Chrome extension for converting HTML to JSX.
 - and more..
