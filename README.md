@@ -44,6 +44,7 @@ I'm a dedicated and skilled Frontend Developer with a strong background in Compu
 - [EPK-IPTV](https://ebk-iptv.online): An IPTV viewing platform with predefined lists.
 - [HTML to JSX Website](https://html-2-jsx.vercel.app): A tool for converting HTML to JSX.
 - [HTML to JSX Chrome Extension](https://chromewebstore.google.com/detail/html-to-jsx/gdafcihicjmhjjjkldfdccfbajneiake?authuser=0&hl=tr): A Chrome extension for converting HTML to JSX.
+- [SVG Collector Chrome Extension](https://chromewebstore.google.com/detail/svg-collector/bkdhhhmkkfepeidbabdmaholoepijkbk?authuser=0&hl=tr): Collect any SVG from any website
 - and more..
 
 ## 📊 GitHub Stats
